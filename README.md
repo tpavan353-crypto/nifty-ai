@@ -1,4 +1,3 @@
-# nifty-ai
 import streamlit as st
 import pandas as pd
 from nsepython import nse_optionchain_scrapper
